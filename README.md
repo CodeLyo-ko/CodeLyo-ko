@@ -1,5 +1,5 @@
 - Hi, I’m @CodeLyo-ko
-- Non-binary with they/them and xe/xem pronouns
+- Non-binary with they/them pronouns
 - Learning c, python, sql, html, css, javascript
 
 <!---
